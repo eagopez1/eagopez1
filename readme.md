@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello! My name is Ethan. I love music and programming! Currently testing the limits of machine learning and web development.<br>
 Winner of the [HackTX Hackathon](https://devpost.com/software/ares-accessible-tetris)
+All of my projects are private, email me if you want to see them.
+
 # Current Projects
 Blockify<br>
 Colligate Robotics<br>

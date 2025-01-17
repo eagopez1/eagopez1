@@ -2,8 +2,8 @@
 Hello! My name is Ethan. I love music and programming! Currently testing the limits of machine learning and web development.
 
 # Current Projects
-Blockify
-Colligate Robotics
+Blockify<br>
+Colligate Robotics<br>
 
 
 ## 🌐 Socials:
